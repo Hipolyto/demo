@@ -2,7 +2,7 @@
   "Title": "DISTRICT SUMMARY",
   "Cards": [
     {
-      "Title": "Rental Activity",
+      "Title": "Rental Activity - Web Controls",
       "NavigateTo": "SupportPage",
       "CardSectionss": [
         {
