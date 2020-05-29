@@ -1,14 +1,54 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Title": "DISTRICT SUMMARY",
+  "Cards": [
+    {
+      "Title": "Rental Activity",
+      "NavigateTo": "SupportPage",
+      "CardSectionss": [
+        {
+          "Charts": [
+            {
+              "Type": "Native",
+              "ObjectId": "qDgZp",
+              "Style": null
+            }
+          ]
+        },
+        {
+          "Charts": [
+            {
+              "Type": "Web",
+              "ObjectId": "wFqy",
+              "Style": null
+            },
+            {
+              "Type": "Native",
+              "ObjectId": "WNpEt",
+              "Style": null
+            },
+            {
+              "Type": "Web",
+              "ObjectId": "KyGDk",
+              "Style": null
+            },
+             {
+              "Type": "Native",
+              "ObjectId": "wFqy",
+              "Style": null
+            },
+            {
+              "Type": "Web",
+              "ObjectId": "WNpEt",
+              "Style": null
+            },
+            {
+              "Type": "Native",
+              "ObjectId": "KyGDk",
+              "Style": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
