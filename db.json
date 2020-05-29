@@ -45,7 +45,12 @@
               "Type": "Native",
               "ObjectId": "KyGDk",
               "Style": "Bar"
-            }
+            },
+            {
+              "Type": "Web",
+              "ObjectId": "WNpEt",
+              "Style": "Circle"
+            },
           ]
         }
       ]
