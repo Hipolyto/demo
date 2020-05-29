@@ -8,43 +8,43 @@
         {
           "Charts": [
             {
-              "Type": "Web",
+              "Type": "Native",
               "ObjectId": "qDgZp",
-              "Style": null
+              "Style": "Circle"
             }
           ]
         },
         {
           "Charts": [
             {
-              "Type": "Web",
+              "Type": "Native",
               "ObjectId": "wFqy",
-              "Style": null
+              "Style": "Circle"
             },
             {
               "Type": "Native",
               "ObjectId": "WNpEt",
-              "Style": null
+              "Style": "Circle"
             },
             {
               "Type": "Web",
               "ObjectId": "KyGDk",
-              "Style": null
+              "Style": "Circle"
             },
              {
-              "Type": "Native",
+              "Type": "Web",
               "ObjectId": "wFqy",
-              "Style": null
+              "Style": "Circle"
             },
             {
               "Type": "Web",
               "ObjectId": "WNpEt",
-              "Style": null
+              "Style": "Circle"
             },
             {
               "Type": "Native",
               "ObjectId": "KyGDk",
-              "Style": null
+              "Style": "Bar"
             }
           ]
         }
