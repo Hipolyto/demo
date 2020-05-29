@@ -8,7 +8,7 @@
         {
           "Charts": [
             {
-              "Type": "Native",
+              "Type": "Web",
               "ObjectId": "qDgZp",
               "Style": null
             }
