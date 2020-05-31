@@ -11,6 +11,7 @@
            "NavigateTo": "02",
           "Charts": [
             {
+              "Height": "400".
               "Type": "Native",
               "ObjectId": "qDgZp",
               "Style": "Circle"
