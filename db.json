@@ -11,12 +11,14 @@
            "NavigateTo": "02",
           "Charts": [
             {
+              "Title": "OCCUPANCY",
               "Height": "150",
               "Type": "Native",
               "ObjectId": "qDgZp",
               "Style": "Circle"
             },
             {
+              "Title": "INSURANCE PENETRATION",
               "Height": "150",
               "Type": "Web",
               "ObjectId": "qDgZp",
@@ -34,11 +36,13 @@
            "NavigateTo": "03",
           "Charts": [
             {
+               "Title": "CONVERSION RATES",
               "Type": "Web",
               "ObjectId": "xNgXFV",
-              "Style": "Radial"
+              "Style": "Circle"
             },
             {
+              "Title": "Reservations",
               "Type": "Native",
               "ObjectId": "WNpEt",
               "Style": "Bar"
