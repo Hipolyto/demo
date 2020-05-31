@@ -2,11 +2,19 @@
   "Title": "DISTRICT SUMMARY",
   "Cards": [
     {
+      "Id": "01",
       "Title": "Rental Activity - Web Controls",
       "NavigateTo": "SupportPage",
-      "CardSectionss": [
+      "CardSections": [
         {
+           "Title": "Rental Activity",
+           "NavigateTo": "02",
           "Charts": [
+            {
+              "Type": "Native",
+              "ObjectId": "qDgZp",
+              "Style": "Circle"
+            },
             {
               "Type": "Web",
               "ObjectId": "qDgZp",
@@ -15,6 +23,8 @@
           ]
         },
         {
+          "Title": "Sales and Marketing",
+           "NavigateTo": "03",
           "Charts": [
             {
               "Type": "Web",
@@ -31,21 +41,7 @@
               "ObjectId": "KyGDk",
               "Style": "Circle"
             },
-             {
-              "Type": "Web",
-              "ObjectId": "wFqy",
-              "Style": "Circle"
-            },
-            {
-              "Type": "Web",
-              "ObjectId": "WNpEt",
-              "Style": "Circle"
-            },
-            {
-              "Type": "Native",
-              "ObjectId": "KyGDk",
-              "Style": "Bar"
-            }
+             
           ]
         }
       ]
