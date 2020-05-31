@@ -58,7 +58,7 @@
       "NavigateTo": "SupportPage",
       "CardSections": [
         {
-          "Title": "Rental Activity",
+          "Title": "Accounts Receivable",
           "NavigateTo": "02",
           "Charts": [
             {
@@ -71,7 +71,7 @@
           ]
         },
         {
-          "Title": "Sales and Marketing",
+          "Title": "Financial Performance",
           "NavigateTo": "03",
           "Charts": [
             {
