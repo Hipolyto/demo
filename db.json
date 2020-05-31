@@ -18,7 +18,7 @@
             {
               "Type": "Web",
               "ObjectId": "qDgZp",
-              "Style": "Circle"
+              "Style": "Bar"
             }
           ]
         },
@@ -29,12 +29,12 @@
             {
               "Type": "Web",
               "ObjectId": "xNgXFV",
-              "Style": "Circle"
+              "Style": "Radial"
             },
             {
               "Type": "Native",
               "ObjectId": "WNpEt",
-              "Style": "Circle"
+              "Style": "Bar"
             },
             {
               "Type": "Web",
