@@ -11,12 +11,13 @@
            "NavigateTo": "02",
           "Charts": [
             {
-              "Height": "400",
+              "Height": "150",
               "Type": "Native",
               "ObjectId": "qDgZp",
               "Style": "Circle"
             },
             {
+              "Height": "250",
               "Type": "Web",
               "ObjectId": "qDgZp",
               "Style": "Bar"
