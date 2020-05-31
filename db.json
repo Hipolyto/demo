@@ -51,6 +51,39 @@
           ]
         }
       ]
+    },
+    {
+      "Id": "02",
+      "Title": "Rental Activity - Web Controls",
+      "NavigateTo": "SupportPage",
+      "CardSections": [
+        {
+          "Title": "Rental Activity",
+          "NavigateTo": "02",
+          "Charts": [
+            {
+              "Title": "OCCUPANCY",
+              "Height": "150",
+              "Type": "Native",
+              "ObjectId": "qDgZp",
+              "Style": "Circle"
+            }
+          ]
+        },
+        {
+          "Title": "Sales and Marketing",
+          "NavigateTo": "03",
+          "Charts": [
+            {
+              "Title": "CONVERSION RATES",
+              "Type": "Web",
+              "ObjectId": "xNgXFV",
+              "Style": "Circle"
+            }
+            
+          ]
+        }
+      ]
     }
   ]
 }
