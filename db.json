@@ -132,25 +132,7 @@
               "ObjectId": "qDgZp",
               "Style": "Circle"
             }
-            },
-            {
-          "Title": "Accounts Receivable",
-          "NavigateTo": "02",
-          "Charts": [
-            {
-              "Title": "OCCUPANCY",
-              "Height": "150",
-              "Type": "Native",
-              "ObjectId": "qDgZp",
-              "Style": "Circle"
-            },
-            {
-              "Title": "RENTS",
-              "Height": "150",
-              "Type": "Native",
-              "ObjectId": "qDgZp",
-              "Style": "Bar"
-            }
+            
           ]
         }
           ]
