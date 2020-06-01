@@ -3,11 +3,11 @@
   "Cards": [
     {
       "Id": "01",
-      "Title": "Rental Activity - Web Controls",
+      "Title": "Rental Activity",
       "NavigateTo": "SupportPage",
       "CardSections": [
         {
-           "Title": "DISTRICT SUMMARY",
+           "Title": "Rental Activity",
            "NavigateTo": "02",
           "Charts": [
             {
