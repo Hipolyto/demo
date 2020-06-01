@@ -3,7 +3,7 @@
   "Cards": [
     {
       "Id": "01",
-      "Title": "Rental Activity",
+      "Title": "DISTRICT SUMMARY",
       "NavigateTo": "SupportPage",
       "CardSections": [
         {
