@@ -4,7 +4,6 @@
     {
       "Id": "01",
       "Title": "DISTRICT SUMMARY",
-      "NavigateTo": "SupportPage",
       "CardSections": [
         {
            "Title": "Rental Activity",
@@ -33,7 +32,7 @@
         },
         {
           "Title": "Sales and Marketing",
-           "NavigateTo": "01",
+           "NavigateTo": "03",
           "Charts": [
             {
                "Title": "CONVERSION RATES",
