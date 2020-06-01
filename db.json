@@ -25,9 +25,9 @@
               "Style": "Bar"
             },
             {
-              "Type": "Web",
+              "Height": "200",
               "ObjectId": "KyGDk",
-              "Style": "Radial"
+              "Style": "Circle"
             },
           ]
         },
