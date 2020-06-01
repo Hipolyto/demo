@@ -7,24 +7,24 @@
       "CardSections": [
         {
            "Title": "Rental Activity",
-           "NavigateTo": "02",
+           "NavigateTo": "03",
           "Charts": [
             {
               "Title": "OCCUPANCY",
-              "Height": "150",
+              "Height": "175",
               "Type": "Native",
               "ObjectId": "qDgZp",
               "Style": "Circle"
             },
             {
               "Title": "INSURANCE PENETRATION",
-              "Height": "150",
+              "Height": "175",
               "Type": "Web",
               "ObjectId": "qDgZp",
               "Style": "Bar"
             },
             {
-              "Height": "200",
+              "Height": "150",
               "ObjectId": "KyGDk",
               "Style": "Circle"
             },
