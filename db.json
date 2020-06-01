@@ -92,7 +92,7 @@
     },
     {
       "Id": "03",
-      "Title": "Store 0589 Rental Activity Detail",
+      "Title": "Store 9999 Rental Activity Detail",
       "NavigateTo": "SupportPage",
       "CardSections": [
         {
@@ -123,6 +123,13 @@
               "Title": "CONVERSION RATES",
               "Type": "Web",
               "ObjectId": "xNgXFV",
+              "Style": "Circle"
+            },
+            {
+              "Title": "Test",
+              "Height": "250",
+              "Type": "Native",
+              "ObjectId": "qDgZp",
               "Style": "Circle"
             }
             
