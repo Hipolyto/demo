@@ -88,11 +88,13 @@
             
           ]
         }
+   
       ]
-    },
+    }
+,
     {
       "Id": "03",
-      "Title": "Store 9999 Rental Activity Detail",
+      "Title": "Test Rental Activity - Web Controls",
       "NavigateTo": "SupportPage",
       "CardSections": [
         {
@@ -107,36 +109,27 @@
               "Style": "Circle"
             },
             {
-              "Title": "RENTS",
-              "Height": "150",
+              "Title": "Reservations",
               "Type": "Native",
-              "ObjectId": "qDgZp",
+              "ObjectId": "WNpEt",
               "Style": "Bar"
             }
           ]
         },
         {
           "Title": "Financial Performance",
-          "NavigateTo": "01",
+          "NavigateTo": "03",
           "Charts": [
             {
               "Title": "CONVERSION RATES",
               "Type": "Web",
               "ObjectId": "xNgXFV",
               "Style": "Circle"
-            },
-            {
-              "Title": "Test",
-              "Height": "250",
-              "Type": "Native",
-              "ObjectId": "qDgZp",
-              "Style": "Circle"
             }
             
           ]
         }
-          ]
-        }
+   
       ]
     }
   ]
