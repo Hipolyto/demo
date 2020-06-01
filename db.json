@@ -53,7 +53,7 @@
     },
     {
       "Id": "02",
-      "Title": "Rental Activity - Web Controls",
+      "Title": "Test Rental Activity - Web Controls",
       "NavigateTo": "SupportPage",
       "CardSections": [
         {
@@ -66,6 +66,12 @@
               "Type": "Native",
               "ObjectId": "qDgZp",
               "Style": "Circle"
+            },
+            {
+              "Title": "Reservations",
+              "Type": "Native",
+              "ObjectId": "WNpEt",
+              "Style": "Bar"
             }
           ]
         },
