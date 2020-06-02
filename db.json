@@ -27,6 +27,12 @@
                   "Type": "Web",
                   "ObjectId": "xNgXFV",
                   "Style": "Bar"
+                },
+                {
+                  "Title": "INSURANCE PENETRATION",
+                  "Type": "Web",
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
                 }
               ]
             },
