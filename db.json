@@ -12,9 +12,6 @@
             {
               "Title": "OCCUPANCY",
               "Height": "175",
-              "Type": "Native",
-              "ObjectId": "qDgZp",
-              "Style": "Circle",
               "Color": "#E83646",
               "ChartItem": [
                 {
