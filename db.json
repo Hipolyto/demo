@@ -15,7 +15,7 @@
               "Type": "Native",
               "ObjectId": "qDgZp",
               "Style": "Circle",
-              "Chart": [
+              "ChartItem": [
                 {
                   "Title": "OCCUPANCY",
                   "Type": "Web",
