@@ -17,20 +17,14 @@
               "Style": "Circle",
               "ChartItem": [
                 {
-                  "Title": "OCCUPANCY",
-                  "Type": "Web",
                   "ObjectId": "xNgXFV",
                   "Style": "Circle"
                 },
                 {
-                  "Title": "INSURANCE PENETRATION",
-                  "Type": "Web",
                   "ObjectId": "xNgXFV",
                   "Style": "Bar"
                 },
                 {
-                  "Title": "INSURANCE PENETRATION",
-                  "Type": "Web",
                   "ObjectId": "xNgXFV",
                   "Style": "Circle"
                 }
@@ -41,7 +35,17 @@
               "Height": "175",
               "Type": "Web",
               "ObjectId": "qDgZp",
-              "Style": "Bar"
+              "Style": "Bar",
+              "ChartItem": [
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                },
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Bar"
+                },
+              ]
             },
             {
               "Height": "150",
