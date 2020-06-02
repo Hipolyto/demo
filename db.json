@@ -6,15 +6,29 @@
       "Title": "DISTRICT SUMMARY",
       "CardSections": [
         {
-           "Title": "Rental Activity",
-           "NavigateTo": "03",
+          "Title": "Rental Activity",
+          "NavigateTo": "03",
           "Charts": [
             {
               "Title": "OCCUPANCY",
               "Height": "175",
               "Type": "Native",
               "ObjectId": "qDgZp",
-              "Style": "Circle"
+              "Style": "Circle",
+              "Chart": [
+                {
+                  "Title": "OCCUPANCY",
+                  "Type": "Web",
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                },
+                {
+                  "Title": "INSURANCE PENETRATION",
+                  "Type": "Web",
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                }
+              ]
             },
             {
               "Title": "INSURANCE PENETRATION",
@@ -27,15 +41,15 @@
               "Height": "150",
               "ObjectId": "KyGDk",
               "Style": "Circle"
-            },
+            }
           ]
         },
         {
           "Title": "Sales and Marketing",
-           "NavigateTo": "03",
+          "NavigateTo": "03",
           "Charts": [
             {
-               "Title": "CONVERSION RATES",
+              "Title": "CONVERSION RATES",
               "Type": "Web",
               "ObjectId": "xNgXFV",
               "Style": "Circle"
@@ -46,7 +60,7 @@
               "ObjectId": "WNpEt",
               "Style": "Bar"
             },
-             
+            
           ]
         }
       ]
@@ -85,13 +99,10 @@
               "ObjectId": "xNgXFV",
               "Style": "Circle"
             }
-            
           ]
         }
-   
       ]
-    }
-,
+    },
     {
       "Id": "03",
       "Title": "Test Rental Activity - Web Controls",
@@ -126,10 +137,8 @@
               "ObjectId": "xNgXFV",
               "Style": "Circle"
             }
-            
           ]
         }
-   
       ]
     }
   ]
