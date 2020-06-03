@@ -53,7 +53,17 @@
             {
               "Height": "150",
               "ObjectId": "KyGDk",
-              "Style": "Bar"
+              "Style": "Bar",
+              "ChartItem": [
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                },
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                }
+              ]
             }
           ]
         },
