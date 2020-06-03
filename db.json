@@ -1,180 +1,343 @@
 {
-  "Title": "DISTRICT SUMMARY",
-  "Cards": [
+  "data": [
     {
-      "Id": "01",
-      "Title": "DISTRICT SUMMARY",
-      "CardSections": [
-        {
-          "Title": "Rental Activity",
-          "NavigateTo": "03",
-          "Charts": [
-            {
-              "Title": "OCCUPANCY",
-              "Height": "175",
-              "Color": "#E83646",
-              "ChartItem": [
-                {
-                  "ObjectId": "xNgXFV",
-                  "Style": "Circle"
-                },
-                {
-                  "ObjectId": "xNgXFV",
-                  "Style": "Bar"
-                },
-                {
-                  "ObjectId": "xNgXFV",
-                  "Style": "Circle"
-                }
-              ]
-            },
-            {
-              "Title": "INSURANCE PENETRATION",
-              "Height": "175",
-              "Type": "Web",
-              "ObjectId": "qDgZp",
-              "Style": "Bar",
-              "ChartItem": [
-                {
-                  "ObjectId": "xNgXFV",
-                  "Style": "Circle"
-                },
-                {
-                  "ObjectId": "xNgXFV",
-                  "Style": "Bar"
-                },
-              ]
-            },
-            {
-              "Height": "150",
-              "ObjectId": "KyGDk",
-              "Style": "Circle"
-            },
-            {
-              "Height": "150",
-              "ObjectId": "KyGDk",
-              "Style": "Bar",
-              "ChartItem": [
-                {
-                  "ObjectId": "xNgXFV",
-                  "Style": "Circle"
-                },
-                {
-                  "ObjectId": "xNgXFV",
-                  "Style": "Circle"
-                }
-              ]
-            }
-          ]
+      "id": "11",
+      "type": "navigation__app_menus",
+      "attributes": {
+        "title": "Appointments",
+        "image": {
+          "url": "/assets/default/default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png",
+          "small": {
+            "url": "/assets/default/small_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "small_hd": {
+            "url": "/assets/default/small_hd_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "fullscreen": {
+            "url": "/assets/default/fullscreen_default-80b0cfa7e6bd6ee57d0f3806eb25b31a842fe9ab69fc4a594303f5555b5bc4bd.png"
+          },
+          "main": {
+            "url": "/assets/default/main_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "fullscreen_hd": {
+            "url": "/assets/default/fullscreen_hd_default-80b0cfa7e6bd6ee57d0f3806eb25b31a842fe9ab69fc4a594303f5555b5bc4bd.png"
+          },
+          "main_hd": {
+            "url": "/assets/default/main_hd_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          }
         },
-        {
-          "Title": "Sales and Marketing",
-          "NavigateTo": "03",
-          "Charts": [
+        "action": "predefined_screen",
+        "enabled": true,
+        "created_at": "2020-06-02T00:32:26Z",
+        "updated_at": "2020-06-02T00:32:26Z",
+        "position": 10
+      },
+      "relationships": {
+        "action_detail": {
+          "data": {
+            "id": "4",
+            "type": "navigation__predefined_screens"
+          }
+        },
+        "parent": {
+          "data": null
+        }
+      }
+    }, {
+      "id": "12",
+      "type": "navigation__app_menus",
+      "attributes": {
+        "title": "My Profile",
+        "image": {
+          "url": "/assets/default/default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png",
+          "small": {
+            "url": "/assets/default/small_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "small_hd": {
+            "url": "/assets/default/small_hd_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "fullscreen": {
+            "url": "/assets/default/fullscreen_default-80b0cfa7e6bd6ee57d0f3806eb25b31a842fe9ab69fc4a594303f5555b5bc4bd.png"
+          },
+          "main": {
+            "url": "/assets/default/main_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "fullscreen_hd": {
+            "url": "/assets/default/fullscreen_hd_default-80b0cfa7e6bd6ee57d0f3806eb25b31a842fe9ab69fc4a594303f5555b5bc4bd.png"
+          },
+          "main_hd": {
+            "url": "/assets/default/main_hd_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          }
+        },
+        "action": "predefined_screen",
+        "enabled": true,
+        "created_at": "2020-06-02T00:32:26Z",
+        "updated_at": "2020-06-02T00:32:26Z",
+        "position": 20
+      },
+      "relationships": {
+        "action_detail": {
+          "data": {
+            "id": "1",
+            "type": "navigation__predefined_screens"
+          }
+        },
+        "parent": {
+          "data": null
+        }
+      }
+    }, {
+      "id": "13",
+      "type": "navigation__app_menus",
+      "attributes": {
+        "title": "Resources",
+        "image": {
+          "url": "/assets/default/default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png",
+          "small": {
+            "url": "/assets/default/small_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "small_hd": {
+            "url": "/assets/default/small_hd_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "fullscreen": {
+            "url": "/assets/default/fullscreen_default-80b0cfa7e6bd6ee57d0f3806eb25b31a842fe9ab69fc4a594303f5555b5bc4bd.png"
+          },
+          "main": {
+            "url": "/assets/default/main_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "fullscreen_hd": {
+            "url": "/assets/default/fullscreen_hd_default-80b0cfa7e6bd6ee57d0f3806eb25b31a842fe9ab69fc4a594303f5555b5bc4bd.png"
+          },
+          "main_hd": {
+            "url": "/assets/default/main_hd_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          }
+        },
+        "action": "subcategory",
+        "enabled": true,
+        "created_at": "2020-06-02T00:32:26Z",
+        "updated_at": "2020-06-02T00:32:26Z",
+        "position": 30
+      },
+      "relationships": {
+        "action_detail": {
+          "data": null
+        },
+        "parent": {
+          "data": null
+        }
+      }
+    }, {
+      "id": "14",
+      "type": "navigation__app_menus",
+      "attributes": {
+        "title": "User Guide",
+        "image": {
+          "url": "/assets/default/default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png",
+          "small": {
+            "url": "/assets/default/small_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "small_hd": {
+            "url": "/assets/default/small_hd_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "fullscreen": {
+            "url": "/assets/default/fullscreen_default-80b0cfa7e6bd6ee57d0f3806eb25b31a842fe9ab69fc4a594303f5555b5bc4bd.png"
+          },
+          "main": {
+            "url": "/assets/default/main_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "fullscreen_hd": {
+            "url": "/assets/default/fullscreen_hd_default-80b0cfa7e6bd6ee57d0f3806eb25b31a842fe9ab69fc4a594303f5555b5bc4bd.png"
+          },
+          "main_hd": {
+            "url": "/assets/default/main_hd_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          }
+        },
+        "action": "dynamic_content_type",
+        "enabled": true,
+        "created_at": "2020-06-02T00:32:26Z",
+        "updated_at": "2020-06-02T00:32:26Z",
+        "position": 40
+      },
+      "relationships": {
+        "action_detail": {
+          "data": {
+            "id": "5",
+            "type": "dynamic_content__content_types"
+          }
+        },
+        "parent": {
+          "data": {
+            "id": "13",
+            "type": "navigation__app_menus"
+          }
+        }
+      }
+    }, {
+      "id": "15",
+      "type": "navigation__app_menus",
+      "attributes": {
+        "title": "Dosing Instructions",
+        "image": {
+          "url": "/assets/default/default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png",
+          "small": {
+            "url": "/assets/default/small_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "small_hd": {
+            "url": "/assets/default/small_hd_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "fullscreen": {
+            "url": "/assets/default/fullscreen_default-80b0cfa7e6bd6ee57d0f3806eb25b31a842fe9ab69fc4a594303f5555b5bc4bd.png"
+          },
+          "main": {
+            "url": "/assets/default/main_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "fullscreen_hd": {
+            "url": "/assets/default/fullscreen_hd_default-80b0cfa7e6bd6ee57d0f3806eb25b31a842fe9ab69fc4a594303f5555b5bc4bd.png"
+          },
+          "main_hd": {
+            "url": "/assets/default/main_hd_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          }
+        },
+        "action": "dynamic_content_type",
+        "enabled": true,
+        "created_at": "2020-06-02T00:32:26Z",
+        "updated_at": "2020-06-02T00:32:26Z",
+        "position": 50
+      },
+      "relationships": {
+        "action_detail": {
+          "data": {
+            "id": "6",
+            "type": "dynamic_content__content_types"
+          }
+        },
+        "parent": {
+          "data": {
+            "id": "13",
+            "type": "navigation__app_menus"
+          }
+        }
+      }
+    }, {
+      "id": "16",
+      "type": "navigation__app_menus",
+      "attributes": {
+        "title": "Contact",
+        "image": {
+          "url": "/assets/default/default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png",
+          "small": {
+            "url": "/assets/default/small_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "small_hd": {
+            "url": "/assets/default/small_hd_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "fullscreen": {
+            "url": "/assets/default/fullscreen_default-80b0cfa7e6bd6ee57d0f3806eb25b31a842fe9ab69fc4a594303f5555b5bc4bd.png"
+          },
+          "main": {
+            "url": "/assets/default/main_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          },
+          "fullscreen_hd": {
+            "url": "/assets/default/fullscreen_hd_default-80b0cfa7e6bd6ee57d0f3806eb25b31a842fe9ab69fc4a594303f5555b5bc4bd.png"
+          },
+          "main_hd": {
+            "url": "/assets/default/main_hd_default-16daaa70b849a969f5ab41d3b7c9513c8ca890a6dd3b30e39c5afc25b8a773b6.png"
+          }
+        },
+        "action": "predefined_screen",
+        "enabled": true,
+        "created_at": "2020-06-02T00:32:26Z",
+        "updated_at": "2020-06-02T00:32:26Z",
+        "position": 60
+      },
+      "relationships": {
+        "action_detail": {
+          "data": {
+            "id": "2",
+            "type": "navigation__predefined_screens"
+          }
+        },
+        "parent": {
+          "data": null
+        }
+      }
+    }
+  ],
+  "included": [
+    {
+      "id": "4",
+      "type": "navigation__predefined_screens",
+      "attributes": {
+        "name": "Appointments",
+        "permanent_link": "appointments"
+      }
+    }, {
+      "id": "1",
+      "type": "navigation__predefined_screens",
+      "attributes": {
+        "name": "Participant Profile",
+        "permanent_link": "participant_profile"
+      }
+    }, {
+      "id": "5",
+      "type": "dynamic_content__content_types",
+      "attributes": {
+        "name": "Article",
+        "permanent_link": "article",
+        "description": null,
+        "baseline": true,
+        "public": false,
+        "created_at": "2020-06-02T00:32:16Z",
+        "updated_at": "2020-06-02T00:32:25Z"
+      },
+      "relationships": {
+        "dynamic_attributes": {
+          "data": [
             {
-              "Title": "CONVERSION RATES",
-              "Type": "Web",
-              "ObjectId": "xNgXFV",
-              "Style": "Circle"
-            },
-            {
-              "Title": "Reservations",
-              "Type": "Native",
-              "ObjectId": "WNpEt",
-              "Style": "Bar"
-            },
-            
+              "id": "8",
+              "type": "dynamic_content__attribute_keys"
+            }, {
+              "id": "9",
+              "type": "dynamic_content__attribute_keys"
+            }, {
+              "id": "10",
+              "type": "dynamic_content__attribute_keys"
+            }, {
+              "id": "11",
+              "type": "dynamic_content__attribute_keys"
+            }
           ]
         }
-      ]
-    },
-    {
-      "Id": "02",
-      "Title": "Test Rental Activity - Web Controls",
-      "NavigateTo": "SupportPage",
-      "CardSections": [
-        {
-          "Title": "Accounts Receivable",
-          "NavigateTo": "02",
-          "Charts": [
+      }
+    }, {
+      "id": "6",
+      "type": "dynamic_content__content_types",
+      "attributes": {
+        "name": "Generic HTML Page",
+        "permanent_link": "generic_html_page",
+        "description": null,
+        "baseline": true,
+        "public": false,
+        "created_at": "2020-06-02T00:32:16Z",
+        "updated_at": "2020-06-02T00:32:26Z"
+      },
+      "relationships": {
+        "dynamic_attributes": {
+          "data": [
             {
-              "Title": "OCCUPANCY",
-              "Height": "150",
-              "Type": "Native",
-              "ObjectId": "qDgZp",
-              "Style": "Circle"
-            },
-            {
-              "Title": "Reservations",
-              "Type": "Native",
-              "ObjectId": "WNpEt",
-              "Style": "Bar"
-            }
-          ]
-        },
-        {
-          "Title": "Financial Performance",
-          "NavigateTo": "03",
-          "Charts": [
-            {
-              "Title": "CONVERSION RATES",
-              "Type": "Web",
-              "ObjectId": "xNgXFV",
-              "Style": "Circle"
+              "id": "12",
+              "type": "dynamic_content__attribute_keys"
             }
           ]
         }
-      ]
-    },
-    {
-      "Id": "03",
-      "Title": "Test Rental Activity - Web Controls",
-      "NavigateTo": "SupportPage",
-      "CardSections": [
-        {
-          "Title": "Accounts Receivable",
-          "NavigateTo": "02",
-          "Charts": [
-            {
-              "Title": "OCCUPANCY",
-              "Height": "150",
-              "Style": "Circle",
-              "ChartItem": [
-                {
-                  "ObjectId": "xNgXFV",
-                  "Style": "Circle"
-                },
-                {
-                  "ObjectId": "xNgXFV",
-                  "Style": "Circle"
-                },
-                {
-                  "ObjectId": "xNgXFV",
-                  "Style": "Circle"
-                }
-              ]
-            },
-            {
-              "Title": "Reservations",
-              "Type": "Native",
-              "ObjectId": "WNpEt",
-              "Style": "Bar"
-            }
-          ]
-        },
-        {
-          "Title": "Financial Performance",
-          "NavigateTo": "03",
-          "Charts": [
-            {
-              "Title": "CONVERSION RATES",
-              "Type": "Web",
-              "ObjectId": "xNgXFV",
-              "Style": "Circle"
-            }
-          ]
-        }
-      ]
+      }
+    }, {
+      "id": "2",
+      "type": "navigation__predefined_screens",
+      "attributes": {
+        "name": "Contact",
+        "permanent_link": "contact"
+      }
     }
   ]
 }
