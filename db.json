@@ -49,6 +49,11 @@
               "Height": "150",
               "ObjectId": "KyGDk",
               "Style": "Circle"
+            },
+            {
+              "Height": "150",
+              "ObjectId": "KyGDk",
+              "Style": "Bar"
             }
           ]
         },
