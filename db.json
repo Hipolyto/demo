@@ -43,7 +43,49 @@
             },
             
           ]
-        }
+        },
+        {
+          "Title": "Sales and Marketing",
+          "NavigateTo": "03",
+          "NavigateTo": "02",
+          "Rows": [
+            {
+              "Title": "CONVERSION RATES",
+              "Height": "175",
+              "Charts": [
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                },
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Bar"
+                },
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                }
+              ]
+            },
+            {
+              "Title": "Reservations",
+              "Height": "200",
+              "Charts": [
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                },
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Bar"
+                },
+                
+              ]
+            },
+            
+          ]
+        },
+        
       ]
     }
   ]
