@@ -11,7 +11,6 @@
             {
               "Title": "OCCUPANCY",
               "Height": "175",
-              "Color": "#E83646",
               "Charts": [
                 {
                   "ObjectId": "xNgXFV",
@@ -30,9 +29,6 @@
             {
               "Title": "INSURANCE PENETRATION",
               "Height": "175",
-              "Type": "Web",
-              "ObjectId": "qDgZp",
-              "Style": "Bar",
               "Charts": [
                 {
                   "ObjectId": "xNgXFV",
@@ -47,12 +43,15 @@
             {
               "Height": "150",
               "ObjectId": "KyGDk",
-              "Style": "Circle"
+              "Charts": [
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                }
             },
             {
               "Height": "150",
               "ObjectId": "KyGDk",
-              "Style": "Bar",
               "Charts": [
                 {
                   "ObjectId": "xNgXFV",
@@ -72,15 +71,29 @@
           "Rows": [
             {
               "Title": "CONVERSION RATES",
-              "Type": "Web",
-              "ObjectId": "xNgXFV",
-              "Style": "Circle"
+              "Charts": [
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                },
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                }
+              ]
             },
             {
               "Title": "Reservations",
-              "Type": "Native",
-              "ObjectId": "WNpEt",
-              "Style": "Bar"
+              "Charts": [
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                },
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                }
+              ]
             },
             
           ]
@@ -99,15 +112,29 @@
             {
               "Title": "OCCUPANCY",
               "Height": "150",
-              "Type": "Native",
-              "ObjectId": "qDgZp",
-              "Style": "Circle"
+              "Charts": [
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                },
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                }
+              ]
             },
             {
               "Title": "Reservations",
-              "Type": "Native",
-              "ObjectId": "WNpEt",
-              "Style": "Bar"
+              "Charts": [
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                },
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                }
+              ]
             }
           ]
         },
@@ -117,9 +144,16 @@
           "Rows": [
             {
               "Title": "CONVERSION RATES",
-              "Type": "Web",
-              "ObjectId": "xNgXFV",
-              "Style": "Circle"
+             "Charts": [
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                },
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                }
+              ]
             }
           ]
         }
@@ -137,7 +171,6 @@
             {
               "Title": "OCCUPANCY",
               "Height": "150",
-              "Style": "Circle",
               "Chars": [
                 {
                   "ObjectId": "xNgXFV",
@@ -155,9 +188,16 @@
             },
             {
               "Title": "Reservations",
-              "Type": "Native",
-              "ObjectId": "WNpEt",
-              "Style": "Bar"
+              "Charts": [
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                },
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                }
+              ]
             }
           ]
         },
@@ -167,9 +207,16 @@
           "Rows": [
             {
               "Title": "CONVERSION RATES",
-              "Type": "Web",
-              "ObjectId": "xNgXFV",
-              "Style": "Circle"
+              "Charts": [
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                },
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                }
+              ]
             }
           ]
         }
