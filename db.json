@@ -1,19 +1,18 @@
 {
-  "Title": "DISTRICT SUMMARY",
-  "Cards": [
+  "Pages": [
     {
       "Id": "01",
       "Title": "DISTRICT SUMMARY",
-      "CardSections": [
+      "Cards": [
         {
           "Title": "Rental Activity",
           "NavigateTo": "03",
-          "Charts": [
+          "Rows": [
             {
               "Title": "OCCUPANCY",
               "Height": "175",
               "Color": "#E83646",
-              "ChartItem": [
+              "Charts": [
                 {
                   "ObjectId": "xNgXFV",
                   "Style": "Circle"
