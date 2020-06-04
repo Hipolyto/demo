@@ -91,11 +91,11 @@
       "Id": "02",
       "Title": "Test Rental Activity - Web Controls",
       "NavigateTo": "SupportPage",
-      "CardSections": [
+      "Cards": [
         {
           "Title": "Accounts Receivable",
           "NavigateTo": "02",
-          "Charts": [
+          "Rows": [
             {
               "Title": "OCCUPANCY",
               "Height": "150",
@@ -114,7 +114,7 @@
         {
           "Title": "Financial Performance",
           "NavigateTo": "03",
-          "Charts": [
+          "Rows": [
             {
               "Title": "CONVERSION RATES",
               "Type": "Web",
