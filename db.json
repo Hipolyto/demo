@@ -2,7 +2,7 @@
   "Pages": [
     {
       "Id": "01",
-      "Title": "DISTRICT SUMMARY",
+      "Title": "DISTRICT SUMMARY 2 test",
       "Cards": [
         {
           "Title": "Rental Activity",
@@ -97,7 +97,7 @@
           "Rows": [
             {
               "Title": "CONVERSION RATES",
-              "Height": "175",
+              "Height": "475",
               "Charts": [
                 {
                   "ObjectId": "xNgXFV",
