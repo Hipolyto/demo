@@ -1,0 +1,452 @@
+{
+  "districts": [
+    {
+      "id": "1",
+      "name": "Distric 01",
+  
+      "stores": [
+        {
+          "id": "001",
+          "name": "Store Name 01 App",
+          "timePeriods": [
+            {
+              "name": "MTD",
+              "dimensionName": [
+                {
+                  "name": "Merch Revenue",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "4500",
+                    "17500",
+                    "17500"
+                  ],
+                  "dimensionmeasure": [
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "QTD",
+              "dimensionName": [
+                {
+                  "name": "Merch Revenue",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "4500",
+                    "17500",
+                    "17500"
+                  ],
+                  "dimensionmeasure": [
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "N/A",
+              "dimensionName": [
+                {
+                  "name": "SQ Occupany Last 12m Actual",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "0.51",
+                    "0.7",
+                    "0.9"
+                  ],
+                  "dimensionmeasure": [
+                    "Jan",
+                    "Feb",
+                    "Match"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "MTD",
+              "dimensionName": [
+                {
+                  "name": "Sq Occupancy Budget",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "0.5",
+                    
+                  ],
+                  "dimensionmeasure": [
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "name": "Sq Occupancy Actual",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "0.45",
+                    
+                  ],
+                  "dimensionmeasure": [
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "name": "Occupany by Store Actual",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "0.63",
+                    "1.63",
+                    "2.63",
+                    "3.63",
+                    "0.63",
+                    "1.63",
+                    "2.63",
+                    "3.63",
+                    "0.63",
+                    "1.63",
+                    "2.63",
+                    "3.63",
+                    "0.63",
+                    "1.63",
+                    "2.63",
+                    "3.63",
+                    "0.63",
+                    "1.63",
+                    "2.63",
+                    "3.63"
+                  ],
+                  "dimensionmeasure": [
+                    "6980",
+                    "6981",
+                    "6982",
+                    "6983",
+                    "6980",
+                    "6981",
+                    "6982",
+                    "6983",
+                    "6980",
+                    "6981",
+                    "6982",
+                    "6983",
+                    "6980",
+                    "6981",
+                    "6982",
+                    "6983",
+                    "6980",
+                    "6981",
+                    "6982",
+                    "6983",
+                    
+                  ]
+                }
+              ]
+            }
+          ],
+          
+        },
+{
+          "id": "002",
+          "name": "Store Name 02 App",
+          "timePeriods": [
+            {
+              "name": "MTD",
+              "dimensionName": [
+                {
+                  "name": "Merch Revenue",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "4500",
+                    "17500",
+                    "17500"
+                  ],
+                  "dimensionmeasure": [
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "QTD",
+              "dimensionName": [
+                {
+                  "name": "Merch Revenue",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "4500",
+                    "17500",
+                    "17500"
+                  ],
+                  "dimensionmeasure": [
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "N/A",
+              "dimensionName": [
+                {
+                  "name": "SQ Occupany Last 12m Actual",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "0.51",
+                    "0.7",
+                    "0.9"
+                  ],
+                  "dimensionmeasure": [
+                    "Jan",
+                    "Feb",
+                    "Match"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "MTD",
+              "dimensionName": [
+                {
+                  "name": "Sq Occupancy Budget",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "0.5",
+                    
+                  ],
+                  "dimensionmeasure": [
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "name": "Sq Occupancy Actual",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "0.45",
+                    
+                  ],
+                  "dimensionmeasure": [
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "name": "Occupany by Store Actual",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "0.63",
+                    "1.63",
+                    "2.63",
+                    "3.63",
+                    "0.63",
+                    "1.63",
+                    "2.63",
+                    "3.63",
+                    "0.63",
+                    "1.63",
+                    "2.63",
+                    "3.63",
+                    "0.63",
+                    "1.63",
+                    "2.63",
+                    "3.63",
+                    "0.63",
+                    "1.63",
+                    "2.63",
+                    "3.63"
+                  ],
+                  "dimensionmeasure": [
+                    "6980",
+                    "6981",
+                    "6982",
+                    "6983",
+                    "6980",
+                    "6981",
+                    "6982",
+                    "6983",
+                    "6980",
+                    "6981",
+                    "6982",
+                    "6983",
+                    "6980",
+                    "6981",
+                    "6982",
+                    "6983",
+                    "6980",
+                    "6981",
+                    "6982",
+                    "6983",
+                    
+                  ]
+                }
+              ]
+            }
+          ],
+          
+        }
+      ],
+      
+    },
+    {
+      "id": "2",
+      "name": "District 02",
+      "stores": [
+        {
+          "id": "001",
+          "name": "Store Name 01 App",
+          "timePeriods": [
+            {
+              "name": "MTD",
+              "dimensionName": [
+                {
+                  "name": "Merch Revenue",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "4500",
+                    "17500",
+                    "17500"
+                  ],
+                  "dimensionmeasure": [
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "QTD",
+              "dimensionName": [
+                {
+                  "name": "Merch Revenue",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "4500",
+                    "17500",
+                    "17500"
+                  ],
+                  "dimensionmeasure": [
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "N/A",
+              "dimensionName": [
+                {
+                  "name": "SQ Occupany Last 12m Actual",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "0.51",
+                    "0.7",
+                    "0.9"
+                  ],
+                  "dimensionmeasure": [
+                    "Jan",
+                    "Feb",
+                    "Match"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "MTD",
+              "dimensionName": [
+                {
+                  "name": "Sq Occupancy Budget",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "0.5",
+                    
+                  ],
+                  "dimensionmeasure": [
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "name": "Sq Occupancy Actual",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "0.45",
+                    
+                  ],
+                  "dimensionmeasure": [
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "name": "Occupany by Store Actual",
+                  "id": "5feda11c-f105-4ea9-b46b-465b59473498",
+                  "dimensionValue": [
+                    "0.63",
+                    "1.63",
+                    "2.63",
+                    "3.63",
+                    "0.63",
+                    "1.63",
+                    "2.63",
+                    "3.63",
+                    "0.63",
+                    "1.63",
+                    "2.63",
+                    "3.63",
+                    "0.63",
+                    "1.63",
+                    "2.63",
+                    "3.63",
+                    "0.63",
+                    "1.63",
+                    "2.63",
+                    "3.63"
+                  ],
+                  "dimensionmeasure": [
+                    "6980",
+                    "6981",
+                    "6982",
+                    "6983",
+                    "6980",
+                    "6981",
+                    "6982",
+                    "6983",
+                    "6980",
+                    "6981",
+                    "6982",
+                    "6983",
+                    "6980",
+                    "6981",
+                    "6982",
+                    "6983",
+                    "6980",
+                    "6981",
+                    "6982",
+                    "6983",
+                    
+                  ]
+                }
+              ]
+            }
+          ],
+          
+        }
+      ],
+      
+    },
+    
+  ]
+}
