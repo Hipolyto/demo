@@ -86,62 +86,6 @@
         },
         
       ]
-    },
-    {
-      "Id": "03",
-      "Title": "Store 0589 Rental Activity Detail",
-      "Cards": [
-        {
-          "Title": "Store Comparison",
-          "NavigateTo": "02",
-          "Rows": [
-            {
-              "Title": "CONVERSION RATES",
-              "Height": "475",
-              "Charts": [
-                {
-                  "ObjectId": "xNgXFV",
-                  "Style": "Circle"
-                }
-              ]
-            },
-            {
-              "Title": "INSURANCE PENETRATION",
-              "Height": "175",
-              "Charts": [
-                {
-                  "ObjectId": "xNgXFV",
-                  "Style": "Circle"
-                },
-                {
-                  "ObjectId": "xNgXFV",
-                  "Style": "Bar"
-                },
-                
-              ]
-            },
-            
-          ]
-        },
-        {
-          "Title": "Number of Cubes by Status",
-          "NavigateTo": "02",
-          "Rows": [
-            {
-              "Title": "CONVERSION RATES",
-              "Height": "250",
-              "Charts": [
-                {
-                  "ObjectId": "xNgXFV",
-                  "Style": "Bar"
-                }
-              ]
-            }
-            
-          ]
-        },
-        
-      ]
     }
   ]
 }
