@@ -15,7 +15,15 @@
                 {
                   "ObjectId": "xNgXFV",
                   "Style": "Circle"
-                }
+                },
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Circle"
+                },
+                {
+                  "ObjectId": "xNgXFV",
+                  "Style": "Bar"
+                },
               ]
             },
             {
