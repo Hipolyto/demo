@@ -6,13 +6,13 @@
     <style type="text/css"> @font-face { font-family: 'Roboto2'; src: url('Fonts/Roboto-Regular.ttf'); }
      @font-face { font-family: 'Roboto3'; src: url('Roboto-Regular.ttf'); } 
      .wrapper { font-family: 'Roboto', 'Roboto2', 'Roboto3'; font-size: 14px; color: #FFFFFF01FFFFFF01FFFFFF01FFFFFF01; } 
-     div { font-family: 'Roboto', 'Roboto2', 'Roboto3'; font-size: 14px; color: #FFFFFF01FFFFFF01FFFFFF01FFFFFF01; } 
+     div { font-family: 'Roboto', 'Roboto2', 'Roboto3'; font-size: 14px; height: auto } 
      span { font-family: 'Roboto', 'Roboto2', 'Roboto3'; font-size: 14px; color: #FFFFFF01FFFFFF01FFFFFF01FFFFFF01; } 
-     p { font-family: 'Roboto', 'Roboto2', 'Roboto3'; font-size: 14px; color: #FFFFFF01FFFFFF01FFFFFF01FFFFFF01; } 
+     p { font-family: 'Roboto', 'Roboto2', 'Roboto3'; font-size: 14px;height: auto; color: #FFFFFF01FFFFFF01FFFFFF01FFFFFF01; } 
      </style>
-    <body>
-        <div class='wrapper' style='display: flex;flex-wrap: wrap;'>
-            <div style="text-align: center;"><b><span style="font-size: 18px;color: rgb(68, 68, 68)">123 Unreported Symptoms</span></b></div>
+    <body style='height: auto;'>
+        <div class='wrapper' style='height: auto;'>
+            <div style="text-align: center;"><b><span style="font-size: 18px;color: rgb(68, 68, 68)">Ana Unreported Symptoms</span></b></div>
             <div style="text-align: center;"><br></div>
             <div style="text-align: center;"><b><span style="color: rgb(230, 0, 0);">PLEASE CONTACT YOUR INVESTIGATOR IMMEDIATELY, IF YOU HAVE:</span></b></div>
             <div style="text-align: center;"><br></div>
